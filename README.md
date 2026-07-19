@@ -24,6 +24,28 @@ device.
 This product uses the TMDB API but is not endorsed or certified by
 [TMDB](https://www.themoviedb.org).
 
+## Need Help?
+
+Having trouble or found a bug? We're happy to help.
+
+- **Before reaching out**, please confirm:
+  - Your IPTV subscription is active and your credentials are correct.
+  - Your server address, username, and password were entered exactly as
+    provided by your IPTV provider.
+  - You have a working internet connection.
+
+  Most playback issues originate with the IPTV provider or subscription rather
+  than the app itself.
+
+## Contact
+
+- **Email:** mohammed.elsaye7@gmail.com
+- **Bug reports & feature requests:** please open an issue on this repository.
+
+When reporting an issue, include your device model, iOS/macOS version, and a
+brief description of the steps to reproduce the problem. Please do **not**
+include your IPTV username or password in any report.
+
 ## License
 
 Copyright © 2026. All rights reserved.
